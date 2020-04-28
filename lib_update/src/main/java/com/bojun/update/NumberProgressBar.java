@@ -11,7 +11,6 @@ import android.os.Parcelable;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.sunfusheng.updater.okhttp.R;
 
 /**
  * 进度条
