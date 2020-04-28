@@ -24,6 +24,7 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation project(path: ':lib_update')
+//    implementation project(path: ':lib_update')
+    implementation 'com.github.demoned:UppdateApp:v1.0'
 
 }
